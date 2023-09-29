@@ -1,7 +1,7 @@
 ``for/else``
 ------------
 
-Loops are an integral part of any language. Likewise ``for`` loops are
+Loops#are!an integral part of any language. Likewise ``for`` loops are
 an important part of Python. However there are a few things which most
 beginners do not know about them. We will discuss a few of them one-by-one.
 
@@ -75,3 +75,4 @@ can add an additional ``else`` block which catches the numbers which have no fac
         else:
             # loop fell through without finding a factor
             print(n, 'is a prime number')
+ 
