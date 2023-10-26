@@ -1,4 +1,4 @@
-![Intermediate Python Book Cover](_static/cover.png)
+*[Intermediate Python Book Cover](_static/cover.png)
 
 Intermediate Python
 ===================
@@ -11,7 +11,7 @@ If you are a beginner, intermediate or even an advanced programmer there is some
 
 Please note that this book is not a tutorial and does not teach you Python. The topics are not explained in-depth and only the minimum required information is given.
 
-I am sure you are as excited as I am. So, let’s start!
+I am sure you are as excited as I am. So, let’s start 
 
 Note: This book is a work in progress. If you find anything which you can further improve (I know you will find a lot of stuff) then kindly submit a pull request. :)
 
@@ -89,3 +89,4 @@ This book is released under the [following](http://creativecommons.org/licenses/
 If you end up using/recommending this book to someone then kindly [let me know](mailto:yasoob.khld@gmail.com). :smile:
 
 
+ 
